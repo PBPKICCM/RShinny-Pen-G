@@ -1,1 +1,1 @@
-Initiate the project to establish the Rshiny app of PBPK model for Pen G in swine and cattle 
+Initiate the project to establish the Rshiny app of PBPK model for Pen G in swine and cattle. The app can help to predict the withdrawal intervals after extralabel use of Pen G.
